@@ -18,6 +18,8 @@ You can find any online courses to improve your typing and gain the skill
 
 ---
 ### Basic Linux Commands Knowledge 
+<img src="./assets/linux.png" alt="drawing" width="40"/>
+
 
 You must have a basic knowledge of linux commands.  Basic understanding of folder structure and basics of working with OS. 
 
@@ -31,6 +33,9 @@ You must have a basic knowledge of linux commands.  Basic understanding of folde
 
 ---
 ### Basic Knowledge of working with IDE 
+<img src="./assets/visual-studio.png" alt="drawing" width="40"/>
+
+
 VSCode is the selected IDE in our company and we are using it for almost all languages.  Here are the basics that you should know (learn) before starting to work: 
 * [Ability to install and work with VS code ](https://code.visualstudio.com/docs)
 * [Ability to install and configure extensions](https://code.visualstudio.com/docs/editor/extension-marketplace) 
@@ -39,6 +44,8 @@ VSCode is the selected IDE in our company and we are using it for almost all lan
 ---
 
 ### Basic Knowledge of SCRUM and Tools
+<img src="./assets/scrum.png" alt="drawing" width="40"/>
+
 We are utilizing SCRUM as our main development methodology.  You must be familiar with concepts of SCRUM methodology. You should know: 
 * Roles in Scrum: ***Scrum Master, Product Owner, Scrum Team***
 * Concepts: ***Story Point, Definition of Done, Sprints***
@@ -48,12 +55,17 @@ See: [Atlassian Guide to Scrum](https://www.atlassian.com/agile/scrum)
 
 ---
 ### Basic Knowledge of GIT 
+<img src="./assets/merge.png" alt="drawing" width="40"/>
+
 Git is the fundamental tool to work in group of developers.  Everyone in the team must have a basic understanding of the GIT concepts Including ***Commit Hash, History, Branching, Merging, Rebase, Tag, HEAD, Staging, Reset, Remote, Pull, Fetch***
 
 For this reason we strongly suggest to read first 3 chapters of [GIT Book](https://git-scm.com/book/en/v2). 
 
 ---
+
 ##  Data structurs and algorithms 
+<img src="./assets/algorithms.png" alt="drawing" width="40"/>
+
 Every one working in filed of programming must have an understanding of data structures and algorithms. These are the building blocks of thinking as a developer. 
 
 Before jumping into suggested resources you have to understand following concepts: 
@@ -64,4 +76,16 @@ Before jumping into suggested resources you have to understand following concept
 Our suggestion is to finish the first 3 weeks of [Introduction to Algorithms](https://www.coursera.org/learn/algorithms-part1). Please note that just 3 weeks is enough. 
 
 ---
- 
+
+
+
+### Attributions
+<a href="https://www.flaticon.com/free-icons/algorithm" title="algorithm icons">Algorithm icons created by Flat Icons - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/git" title="git icons">Git icons created by edt.im - Flaticon</a> 
+
+<a href="https://www.flaticon.com/free-icons/scrum" title="scrum icons">Scrum icons created by Flat Icons - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/microsoft" title="microsoft icons">Microsoft icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/linux" title="linux icons">Linux icons created by Freepik - Flaticon</a>
