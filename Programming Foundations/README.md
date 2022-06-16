@@ -76,8 +76,20 @@ Before jumping into suggested resources you have to understand following concept
 Our suggestion is to finish the first 3 weeks of [Introduction to Algorithms](https://www.coursera.org/learn/algorithms-part1). Please note that just 3 weeks is enough. 
 
 ---
+## Clean Coding 
+<img src="./assets/code.png" alt="drawing" width="40"/>
+
+You must be familiar with principles of clean coding. For this we strongly suggest to read uncle Bob's [Clean Code Book](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882). 
+
+We suggest to print the [summary of clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29) and have it next to your coding desk. 
+
+Specially for Javascript  have a look at this to see [examples in Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+> One golden rule of design principles is that whenever you duplicate (copy/paste) the code, there is  something wrong with your coding. 
 
 
+
+---
 
 ### Attributions
 <a href="https://www.flaticon.com/free-icons/algorithm" title="algorithm icons">Algorithm icons created by Flat Icons - Flaticon</a>
@@ -89,3 +101,5 @@ Our suggestion is to finish the first 3 weeks of [Introduction to Algorithms](ht
 <a href="https://www.flaticon.com/free-icons/microsoft" title="microsoft icons">Microsoft icons created by Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/linux" title="linux icons">Linux icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Freepik - Flaticon</a>
