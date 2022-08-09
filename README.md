@@ -4,6 +4,8 @@ This project aim is to outline the technical roadmap for the Notionwave company.
 ## Roadmaps 
 - [Programming Foundations](./Programming%20Foundations/): In this road map you will learn about the basic of programming and foundations of computer programming. The roadmap is considered the baseline and common language to all developers o be able to communicate with each other in technical terms. 
 
+- [Frontend Development](./Frontend/): What you need to be a frontend developer. 
+
 - [Quality Assurance](./QA/): You will learn the basics of becoming an expert in software quality assurance. 
 
 ## Learning Materials
