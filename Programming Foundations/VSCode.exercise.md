@@ -31,6 +31,6 @@ export const getCount = () => {
 use: `F2` to refactor variable, class, function, etc names.  
 don't use: `ctrl+d` or `cmd+d` or `ctrl+f2` (multi cursor select) they are not safe and they are manual.
 
-🙏🏻 to @ARHariri for mentioning this exists in VSCode.
+🙏🏻 to @ARHariri for mentioning that this exists in VSCode.
 
 </details>
