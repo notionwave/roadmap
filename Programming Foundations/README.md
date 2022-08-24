@@ -41,6 +41,8 @@ VSCode is the selected IDE in our company and we are using it for almost all lan
 * [Ability to install and configure extensions](https://code.visualstudio.com/docs/editor/extension-marketplace) 
 * [If using WSL to run VSCode Server from terminal ](https://code.visualstudio.com/docs/remote/wsl)
 
+> Visit [VSCode Roadmap](./VSCode.exercise.md) exercise module to learn using VSCode in action. 
+
 ---
 
 ### Basic Knowledge of SCRUM and Tools
