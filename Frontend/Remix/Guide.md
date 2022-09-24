@@ -1,7 +1,7 @@
 # Tips and Tricks and Best Practises to develop a Remix apps
 
 ## Lazy Loading Data
-One of Remix biggest challenges for use was how to load data lazily e.g. pagination in a search page or loading tree structures branches.  
+One of our challenges in using biggest was how to load data **lazily** e.g. pagination in a search page or loading tree structures branches.  
 
 > TL;DR: multiple source of truth is BAD :)) try avoid it and completely be aware of where you store and how many time you store your data  
 
