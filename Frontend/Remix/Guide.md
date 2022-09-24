@@ -1,4 +1,4 @@
-# Tips and Tricks and Best Practises to develop a Remix apps
+# Remix Guide (Tips, Tricks and Best Practises)
 
 ## Lazy Loading Data
 One of our challenges in using Remix was how to load data **lazily** e.g. pagination in a search page or loading tree structures branches.  
