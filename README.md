@@ -1,10 +1,13 @@
 # Notionwave Suggested Roadmap
-This project aim is to outline the technical roadmap for the Notionwave company. The roadmap presented here is highly dependent on the technologies that we use in Notionwave but still there are a lot there to be shared with others in community. 
+This project aim is to outline the technical roadmap for the Notionwave company. The roadmap presented here is highly dependent on the technologies that we use in Notionwave but still there are a lot there to be shared with others in community.  
+This is not just a collection of roadmaps. You can find exercises in `Exercise.md` files and guides in `Guides.md` files.
 
 ## Roadmaps 
 - [Programming Foundations](./Programming%20Foundations/): In this road map you will learn about the basic of programming and foundations of computer programming. The roadmap is considered the baseline and common language to all developers o be able to communicate with each other in technical terms. 
 
-- [Frontend Development](./Frontend/): What you need to be a frontend developer. 
+- [Frontend Development](./Frontend/): What you need to be a frontend engineer. 
+
+- [Backend Development](./Frontend/): What you need to be a backend engineer. 
 
 - [Quality Assurance](./QA/): You will learn the basics of becoming an expert in software quality assurance. 
 

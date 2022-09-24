@@ -1,2 +1,1 @@
-# Frontend Development Roadmap - WIP  
-To be started ...
+# Frontend Development Roadmap
