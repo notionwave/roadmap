@@ -10,10 +10,6 @@ We use git for our version system management and for cloning projects we have tw
 
 ### 2. **HTTPS**
 
-#### **Discovering HTTPS:**
-
-Let’s start by explaining what the famous HTTPS means, we’ll need it later. In short, it is the encrypted version of HTTP, period. But then what is HTTP? It is a protocol that works in client-server communication, thanks to which the Internet exists as we know it. HTTP supports different types of requests, depending on what we want to send, e.g. a specific resource or a completed form. What distinguishes these two protocols is the letter S, meaning Secure. Despite such a small difference in name, the difference in operation is huge because HTTPS is an encrypted connection! The TLS protocol is responsible for it, which first performs key exchange to verify the security of the connection, and only then the HTTP request is made.
-
 To clone a repository we just need to type such command: 
 
 ```shell
